@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-label="Monitor con código, gráfica y planta industrial">
+  <rect width="320" height="240" fill="#0b1b2e"/>
+
+  <!-- Engrane -->
+  <circle cx="270" cy="42" r="20" fill="none" stroke="#f5a524" stroke-width="8" stroke-dasharray="6.28 4.19"/>
+  <circle cx="270" cy="42" r="15" fill="#f5a524"/>
+  <circle cx="270" cy="42" r="6" fill="#0b1b2e"/>
+
+  <!-- Monitor -->
+  <rect x="28" y="30" width="180" height="120" rx="8" fill="#14304d" stroke="#f5a524" stroke-width="3"/>
+  <rect x="44" y="46" width="60" height="7" rx="3" fill="#4fd1c5"/>
+  <rect x="56" y="60" width="90" height="7" rx="3" fill="#ffffff" opacity="0.85"/>
+  <rect x="56" y="74" width="50" height="7" rx="3" fill="#f5a524"/>
+  <rect x="112" y="74" width="40" height="7" rx="3" fill="#4fd1c5"/>
+  <rect x="56" y="88" width="76" height="7" rx="3" fill="#ffffff" opacity="0.85"/>
+  <rect x="44" y="102" width="34" height="7" rx="3" fill="#4fd1c5"/>
+  <rect x="44" y="120" width="110" height="7" rx="3" fill="#ffffff" opacity="0.5"/>
+  <rect x="106" y="150" width="28" height="14" fill="#f5a524"/>
+  <rect x="84" y="164" width="72" height="6" rx="3" fill="#f5a524"/>
+
+  <!-- Panel con gráfica -->
+  <rect x="180" y="82" width="112" height="82" rx="8" fill="#0f2740" stroke="#4fd1c5" stroke-width="2"/>
+  <rect x="194" y="128" width="16" height="24" fill="#4fd1c5"/>
+  <rect x="216" y="114" width="16" height="38" fill="#f5a524"/>
+  <rect x="238" y="102" width="16" height="50" fill="#4fd1c5"/>
+  <rect x="260" y="92" width="16" height="60" fill="#f5a524"/>
+
+  <!-- Planta industrial -->
+  <path d="M20 226 V196 L52 178 V196 L84 178 V196 L116 178 V196 L148 178 V226 Z" fill="#1d3f63"/>
+  <rect x="154" y="160" width="14" height="66" fill="#1d3f63"/>
+  <rect x="176" y="190" width="120" height="36" fill="#1d3f63"/>
+  <rect x="30" y="206" width="12" height="10" fill="#f5a524"/>
+  <rect x="62" y="206" width="12" height="10" fill="#f5a524"/>
+  <rect x="94" y="206" width="12" height="10" fill="#f5a524"/>
+  <rect x="126" y="206" width="12" height="10" fill="#f5a524"/>
+  <rect x="192" y="200" width="14" height="10" fill="#f5a524"/>
+  <rect x="220" y="200" width="14" height="10" fill="#f5a524"/>
+  <rect x="248" y="200" width="14" height="10" fill="#f5a524"/>
+  <circle cx="161" cy="150" r="7" fill="#ffffff" opacity="0.35"/>
+  <circle cx="169" cy="138" r="9" fill="#ffffff" opacity="0.22"/>
+  <rect x="0" y="226" width="320" height="14" fill="#123049"/>
+</svg>
