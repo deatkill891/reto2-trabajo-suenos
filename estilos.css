@@ -1,15 +1,14 @@
-/* ===== Base (estilo tipo Bootstrap 5) ===== */
+/* base */
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
 body {
   background: #ffffff;
   color: #212529;
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: system-ui, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -23,7 +22,7 @@ p {
   margin-bottom: 16px;
 }
 
-/* ===== Selectores de id ===== */
+/* ids */
 #navegacion {
   width: 100%;
   height: 56px;
@@ -36,7 +35,6 @@ p {
 }
 
 #imagen-trabajo {
-  -webkit-box-sizing: content-box;
   box-sizing: content-box;
   float: right;
   width: 300px;
@@ -59,7 +57,7 @@ p {
   text-align: center;
 }
 
-/* ===== Selectores de clase ===== */
+/* clases */
 .container {
   width: 100%;
   max-width: 960px;
@@ -67,7 +65,7 @@ p {
   padding: 0 16px;
 }
 
-/* Navbar */
+/* menú de arriba */
 .navbar-brand {
   float: left;
   color: #ffffff;
@@ -96,7 +94,7 @@ p {
   color: #ffffff;
 }
 
-/* Encabezado tipo hero */
+/* título grande */
 .hero {
   background: #e9ecef;
   padding: 48px 32px;
@@ -114,7 +112,7 @@ p {
   font-weight: 300;
 }
 
-/* Botón */
+/* botón */
 .btn {
   display: inline-block;
   padding: 6px 12px;
@@ -135,7 +133,7 @@ p {
   background: #0b5ed7;
 }
 
-/* Tarjetas */
+/* tarjetas */
 .card {
   background: #ffffff;
   margin-bottom: 24px;
@@ -166,7 +164,7 @@ p {
   padding: 3px;
 }
 
-/* Lista de grupo */
+/* lista de razones */
 .list-group {
   list-style: none;
 }
@@ -181,7 +179,7 @@ p {
   border-bottom: 0;
 }
 
-/* Insignias */
+/* etiquetas de colores */
 .badge {
   display: inline-block;
   color: #ffffff;
@@ -199,7 +197,7 @@ p {
 .bg-warning { background: #ffc107; color: #000000; }
 .bg-info    { background: #0dcaf0; color: #000000; }
 
-/* Tabla */
+/* tabla */
 .table {
   width: 100%;
   border-collapse: collapse;
